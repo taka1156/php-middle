@@ -1,0 +1,6 @@
+vendor/
+db/
+maildir/
+logs/
+app/
+public/
